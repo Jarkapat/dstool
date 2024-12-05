@@ -1,0 +1,6 @@
+- model : bb.CV
+  pk : 1
+  fields :
+    cid : 123
+    cname : sdf
+    tname : sdfsf
